@@ -8,5 +8,5 @@ I created a menu to allow the users to navigate their way through the program in
 ## Screenshot
 > application demo view.
 
-1. view page___
-    <p align="center"><img src="screenshot/menu.png" alt="login" width="600"></p>
+1. view page
+    <p align="center"><img src="Console Application/screenshot/menu.png" alt="login" width="600"></p>
