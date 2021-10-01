@@ -5,8 +5,3 @@ In addition to creating the program, I learned more about Menu-Driven-Interface 
 
 I created a menu to allow the users to navigate their way through the program in the simplest way possible. The menu could allow you to choose between an array of options, i.e.; Pattern Application, Fibonacci Series and Palindrome Application. I also took the initiative to allow the user to view the menu again every time they have finished using the previous application.
 
-## Screenshot
-> application demo view.
-
-1. view page
-    <p align="center"><img src="Console Application/screenshot/menu.png" alt="login" width="600"></p>
